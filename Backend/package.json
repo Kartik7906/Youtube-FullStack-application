@@ -1,0 +1,17 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "this is an major fullStack Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javaScript",
+    "Node.js",
+    "Express.js",
+    "MongoDB"
+  ],
+  "author": "Kartik kumar",
+  "license": "ISC"
+}
